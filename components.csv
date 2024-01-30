@@ -1,6 +1,6 @@
-Name of part,Serial number,Link to Mouser page of part
-PIC24FJ64GA002-I/SP,579-PIC24FJ64GA002SP,https://eu.mouser.com/ProductDetail/Microchip-Technology/PIC24FJ64GA002-I-SP?qs=V%2FyyTCAHA4ChMHX5BWhjEA%3D%3D
-WRL-17146,474-WRL-17146,https://eu.mouser.com/ProductDetail/SparkFun/WRL-17146?qs=DPoM0jnrROXqYUXDsg9bzA%3D%3D
-1-2199298-9,571-1-2199298-9,https://eu.mouser.com/ProductDetail/TE-Connectivity/1-2199298-9?qs=fK8dlpkaUMumZ9haKKccEA%3D%3D
-
-
+Name of part,Serial number,Link to Mouser page of part,Description
+PIC24FJ64GA002-I/SP,579-PIC24FJ64GA002SP,https://eu.mouser.com/ProductDetail/Microchip-Technology/PIC24FJ64GA002-I-SP?qs=V%2FyyTCAHA4ChMHX5BWhjEA%3D%3D,Microcontroller
+WRL-17146,474-WRL-17146,https://eu.mouser.com/ProductDetail/SparkFun/WRL-17146?qs=DPoM0jnrROXqYUXDsg9bzA%3D%3D,Wi-Fi module
+1-2199298-9,571-1-2199298-9,https://eu.mouser.com/ProductDetail/TE-Connectivity/1-2199298-9?qs=fK8dlpkaUMumZ9haKKccEA%3D%3D,Microcontroller IC socket
+910-HDR100IMP40FGVTH,HDR100IMP40F-G-V-TH,https://eu.mouser.com/ProductDetail/Chip-Quik/HDR100IMP40F-G-V-TH?qs=Wj%2FVkw3K%252BMB%252BpQKGESbrjQ%3D%3D,Female headers
+910-HDR100IMP40MGVTH,HDR100IMP40M-G-V-TH,https://eu.mouser.com/ProductDetail/Chip-Quik/HDR100IMP40M-G-V-TH?qs=Wj%2FVkw3K%252BMBASWNGaQOKpg%3D%3D,Male headers
