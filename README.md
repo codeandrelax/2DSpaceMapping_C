@@ -18,6 +18,14 @@ For more detailed informations about each used modul, visit Wiki 📜 page. <br 
 ![schema_left](https://github.com/codeandrelax/2DSpaceMapping_C/assets/93439549/0deb4d70-5c87-4875-b34a-4d397c3f7102)
 ![schema_right](https://github.com/codeandrelax/2DSpaceMapping_C/assets/93439549/4b538655-138f-4aef-9f1a-e5aa8712c403)
 
+## KiCad PCB Layout: 
+![pcb](https://github.com/codeandrelax/2DSpaceMapping_C/assets/93439549/eeb37cc5-fcc2-4e45-8c88-24110b1537c6)
+
+## KiCad 3D View PCB :
+![pcb3DView](https://github.com/codeandrelax/2DSpaceMapping_C/assets/93439549/d5eb5ec8-2347-498e-a60c-c8bc70bcaa2a)
+![pcb3DView2](https://github.com/codeandrelax/2DSpaceMapping_C/assets/93439549/098549f3-3b63-4a49-ba1d-3b6bb78fdfd7)
+
+
 ## Guidance through file hierarchy :
   - Symbols_footprints ➡️ contains .kicad_sym & .kicad_mod files for each used modul/ component on the scheme
   - pcb ➡️  contains .png screenshots of .kicad_pcb file
