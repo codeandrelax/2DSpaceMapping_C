@@ -1,7 +1,13 @@
 # 2DSpaceMapping autonomous vehicle 🚗 ➡️ GENERAL
-
-A brief description of the project...
-
+--------------------------
+The Joy-Car is an autonomous education robot based on Micro:Bit and offers a modular robotics learn- ing kit. <br />
+Besides the cars chassis and mainboard, our PCB board will be designed and used for controling the joy-car. <br />
+Via PC application, the user will be able to see a 2D space map around the vehicle. <br />
+In addition, stopping and starting will be enabled through the application. <br />
+ <br />
+For more information about joy-car visit 🏃‍♀️ : https://joycar.joy-it.net/en/
+ <br />
+ <br />
 Guide through the code
 --------------------------
 You are currently on the main branch. Beside the main there are 3 more :
