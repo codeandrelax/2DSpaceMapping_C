@@ -23,6 +23,7 @@ For more detailed informations about each used modul, visit Wiki 📜 page. <br 
   - pcb ➡️  contains .png screenshots of .kicad_pcb file
   - schema ➡️  contains .png screenshots of .kicad_sch file
   - work ➡️  project work directory. Run ♻️ the pcb_layout_c.kicad_pro form this dir using KiCad7.0 or latest. <br /> (KiCad DOWNLOAD link 🆓⬇️ : https://www.kicad.org/download/windows/)
+  - components.csv ➡️ list of used components for this project with Mouser Electronics link to each of them. <br /> (https://hr.mouser.com/?gad_source=1&gclid=Cj0KCQiAw6yuBhDrARIsACf94RVZDfmztJkKG18F4qrYKF0iiaaEyd-j5r4cXpUXJpGI24s9JXtPty4aAuFKEALw_wcB) 
 
 ## Guidance through Git Bash commands :
 1. 		git checkout hardware_branch
