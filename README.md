@@ -1,9 +1,9 @@
-## 2DSpaceMapping autonomous vehicle 🚗 ➡️ HARDWARE SIDE
+# 2DSpaceMapping autonomous vehicle 🚗 ➡️ HARDWARE SIDE
 
 This is a hardware_branch which contains models for assembly electronic devices/ modules / components. <br />
 For more detailed informations about each used modul, visit Wiki 📜 page. <br />
  <br />
-### Currently implemented :
+## Currently implemented :
   - edge connector
   - MCU PIC24FJ64GA002-I/SP
   - normally opened button TS02-66-50-BK-100-SCR-D
@@ -13,18 +13,18 @@ For more detailed informations about each used modul, visit Wiki 📜 page. <br 
   - MCU socket 1-2199298-9
 <br />
 
-### KiCad Schema : 
+## KiCad Schema : 
 ![schema](https://github.com/codeandrelax/2DSpaceMapping_C/assets/93439549/00e11fdd-a0b7-4c42-8b14-3522711066e8)
 ![schema_left](https://github.com/codeandrelax/2DSpaceMapping_C/assets/93439549/0deb4d70-5c87-4875-b34a-4d397c3f7102)
 ![schema_right](https://github.com/codeandrelax/2DSpaceMapping_C/assets/93439549/4b538655-138f-4aef-9f1a-e5aa8712c403)
 
-### Guidance through file hierarchy :
+## Guidance through file hierarchy :
   - Symbols_footprints ➡️ contains .kicad_sym & .kicad_mod files for each used modul/ component on the scheme
   - pcb ➡️  contains .png screenshots of .kicad_pcb file
   - schema ➡️  contains .png screenshots of .kicad_sch file
   - work ➡️  project work directory. Run ♻️ the pcb_layout_c.kicad_pro form this dir using KiCad7.0 or latest. <br /> (KiCad DOWNLOAD link 🆓⬇️ : https://www.kicad.org/download/windows/)
 
-### Guidance through Git Bash commands :
+## Guidance through Git Bash commands :
 1. 		git checkout hardware_branch
 2. 		git pull origin hardware_branch
 3. 🚧 ...modification... 🚧
