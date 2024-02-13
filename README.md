@@ -5,7 +5,12 @@ For more detailed informations about each used modul, visit Wiki 📜 page. <br 
  <br />
 ### Currently implemented :
   - edge connector
-  - MCU
+  - MCU PIC24FJ64GA002-I/SP
+  - normally opened button TS02-66-50-BK-100-SCR-D
+  - WiFi module WRL-17146
+  - Slide-Switch SLW-883935-2A-D
+  - 2x4 pin socket for WiFi module 5-534206-4
+  - MCU socket 1-2199298-9
 <br />
 
 ### Guidance through Git Bash commands :
