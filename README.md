@@ -1,15 +1,14 @@
-# 2DSpaceMapping autonomous vehicle 🚗 ➡️ HARDWARE SIDE
+## 2DSpaceMapping autonomous vehicle 🚗 ➡️ HARDWARE SIDE
 
-This is a hardware_branch which contains models for assembly electronic devices/ modules / components. 
-For more detailed informations about each used modul, visit Wiki 📜 page.
-----
-
-Currently implemented :
+This is a hardware_branch which contains models for assembly electronic devices/ modules / components. <br />
+For more detailed informations about each used modul, visit Wiki 📜 page. <br />
+ <br />
+### Currently implemented :
   - edge connector
   - MCU
+<br />
 
-
-Guidance through Git Bash commands :
+### Guidance through Git Bash commands :
 1. 		git checkout hardware_branch
 2. 		git pull origin hardware_branch
 3. 🚧 ...modification... 🚧
