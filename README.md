@@ -13,6 +13,12 @@ For more detailed informations about each used modul, visit Wiki 📜 page. <br 
   - MCU socket 1-2199298-9
 <br />
 
+### KiCad Schema : 
+![schema](https://github.com/codeandrelax/2DSpaceMapping_C/assets/93439549/00e11fdd-a0b7-4c42-8b14-3522711066e8)
+![schema_left](https://github.com/codeandrelax/2DSpaceMapping_C/assets/93439549/0deb4d70-5c87-4875-b34a-4d397c3f7102)
+![schema_right](https://github.com/codeandrelax/2DSpaceMapping_C/assets/93439549/4b538655-138f-4aef-9f1a-e5aa8712c403)
+
+
 ### Guidance through Git Bash commands :
 1. 		git checkout hardware_branch
 2. 		git pull origin hardware_branch
