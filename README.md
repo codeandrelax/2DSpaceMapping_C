@@ -18,6 +18,11 @@ For more detailed informations about each used modul, visit Wiki 📜 page. <br 
 ![schema_left](https://github.com/codeandrelax/2DSpaceMapping_C/assets/93439549/0deb4d70-5c87-4875-b34a-4d397c3f7102)
 ![schema_right](https://github.com/codeandrelax/2DSpaceMapping_C/assets/93439549/4b538655-138f-4aef-9f1a-e5aa8712c403)
 
+### Guidance through file hierarchy :
+  - Symbols_footprints ➡️ contains .kicad_sym & .kicad_mod files for each used modul/ component on the scheme
+  - pcb ➡️  contains .png screenshots of .kicad_pcb file
+  - schema ➡️  contains .png screenshots of .kicad_sch file
+  - work ➡️  project work directory. Run ♻️ the pcb_layout_c.kicad_pro form this dir using KiCad7.0 or latest. <br /> (KiCad DOWNLOAD link 🆓⬇️ : https://www.kicad.org/download/windows/)
 
 ### Guidance through Git Bash commands :
 1. 		git checkout hardware_branch
