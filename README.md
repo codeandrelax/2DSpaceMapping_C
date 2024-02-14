@@ -11,7 +11,13 @@ For more detailed informations about each used modul, visit Wiki 📜 page. <br 
   - Slide-Switch SLW-883935-2A-D
   - 2x4 pin socket for WiFi module 5-534206-4
   - MCU socket 1-2199298-9
-<br />
+
+## Guidance through file hierarchy :
+  - Symbols_footprints ➡️ contains .kicad_sym & .kicad_mod files for each used modul/ component on the scheme
+  - pcb ➡️  contains .png screenshots of .kicad_pcb file
+  - schema ➡️  contains .png screenshots of .kicad_sch file and .pdf file exported from KiCad project
+  - work ➡️  project work directory. Run ♻️ the pcb_layout_c.kicad_pro form this dir using KiCad7.0 or latest. <br /> (KiCad DOWNLOAD link 🆓⬇️ : https://www.kicad.org/download/windows/)
+  - components.csv ➡️ list of used components for this project with Mouser Electronics link to each of them. <br /> (https://hr.mouser.com/?gad_source=1&gclid=Cj0KCQiAw6yuBhDrARIsACf94RVZDfmztJkKG18F4qrYKF0iiaaEyd-j5r4cXpUXJpGI24s9JXtPty4aAuFKEALw_wcB)
 
 ## KiCad Schema : 
 ![schema](https://github.com/codeandrelax/2DSpaceMapping_C/assets/93439549/00e11fdd-a0b7-4c42-8b14-3522711066e8)
@@ -24,14 +30,6 @@ For more detailed informations about each used modul, visit Wiki 📜 page. <br 
 ## KiCad 3D View PCB :
 ![pcb3DView](https://github.com/codeandrelax/2DSpaceMapping_C/assets/93439549/d5eb5ec8-2347-498e-a60c-c8bc70bcaa2a)
 ![pcb3DView2](https://github.com/codeandrelax/2DSpaceMapping_C/assets/93439549/098549f3-3b63-4a49-ba1d-3b6bb78fdfd7)
-
-
-## Guidance through file hierarchy :
-  - Symbols_footprints ➡️ contains .kicad_sym & .kicad_mod files for each used modul/ component on the scheme
-  - pcb ➡️  contains .png screenshots of .kicad_pcb file
-  - schema ➡️  contains .png screenshots of .kicad_sch file and .pdf file exported from KiCad project
-  - work ➡️  project work directory. Run ♻️ the pcb_layout_c.kicad_pro form this dir using KiCad7.0 or latest. <br /> (KiCad DOWNLOAD link 🆓⬇️ : https://www.kicad.org/download/windows/)
-  - components.csv ➡️ list of used components for this project with Mouser Electronics link to each of them. <br /> (https://hr.mouser.com/?gad_source=1&gclid=Cj0KCQiAw6yuBhDrARIsACf94RVZDfmztJkKG18F4qrYKF0iiaaEyd-j5r4cXpUXJpGI24s9JXtPty4aAuFKEALw_wcB) 
 
 ## Guidance through Git Bash commands :
 1. 		git checkout hardware_branch
