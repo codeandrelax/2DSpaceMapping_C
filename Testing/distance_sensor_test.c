@@ -4,9 +4,9 @@
  * @date 21 April 2024
  * @brief File containing source code for testing distance sensor.
  *
- * This file tests correctess of the servo motor. Test cases are
- * moving in seven spots 0 to 180 degrees. Servo is controled via
- * PWM module set on channel 1.
+ * This file tests correctess of the distance sensor.
+ * Set one pin as analog and read the data from sensor as unsigned.
+ * If the value is greater than threshold - the obstacle is detected - turn LED ON
  * @see https://github.com/codeandrelax/2DSpaceMapping_C/wiki/Određivanje-udaljenosti-auta-od-predmeta
  */
 
